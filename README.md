@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## This process builds a Linear Regression model to predict the growth_rate based on key features in the dataset. Below is a step-by-step explanation of the workflow:
+This process builds a Linear Regression model to predict the growth_rate based on key features in the dataset. Below is a step-by-step explanation of the workflow:
 
-1) Load & Explore Data
+### 1) Load & Explore Data
 Goal: Load the dataset, understand its structure, and check basic statistics.
 Import essential libraries: pandas, numpy, seaborn, matplotlib.
 Read the dataset (surv_variants.csv).
