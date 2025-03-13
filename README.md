@@ -58,3 +58,7 @@ R² Score: Measures how well the model explains the variance in the data (closer
 Goal: Compare actual vs. predicted values with a scatter plot.
 A scatter plot is generated to visually assess how well predictions match the actual values.
 Helps identify patterns, outliers, and potential issues with the model.
+
+### OUTPUT
+
+![Image](https://github.com/user-attachments/assets/015d9000-998d-467d-b9a5-6b80d25cc391)
