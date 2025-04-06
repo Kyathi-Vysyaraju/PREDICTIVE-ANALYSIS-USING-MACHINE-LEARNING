@@ -1,17 +1,5 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Kyathi Vysyaraju
-
-*INTERN ID*: CT04WV85
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ### DESCRIPTION
 
 This process builds a Linear Regression model to predict the growth_rate based on key features in the dataset. Below is a step-by-step explanation of the workflow:
